@@ -1,4 +1,4 @@
-# Ryujinx Game Compatibility List
+# Ryujinx NEO Game Compatibility List
 
 Anyone is free to update or share their results here, with the following requirements:
 - You **must** use an official master/main build with any hacks disabled. All mods & cheats of any kind must also be disabled.
